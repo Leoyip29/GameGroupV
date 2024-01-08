@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 429ed8eead24f4c41b84c6695c4236bc
+  - enabled: 1
+    path: Assets/Scenes/GroupChat.unity
+    guid: 55f5507e4c7974f278cacf586e5d2ec1
+  - enabled: 1
+    path: Assets/Scenes/Map.unity
+    guid: f4a0b8f4455c4544cadda4dbf79cf34d
+  - enabled: 1
+    path: Assets/Scenes/School.unity
+    guid: ad1fcb1cc2db648f4905d988a600674b
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
